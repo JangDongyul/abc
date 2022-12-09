@@ -33,7 +33,7 @@ $(function() {
 <body>
 <jsp:include page="/WEB-INF/views/include/bodyHeader.jsp"/>
 <div class="container">
-	수정
+	수정 한번 더 한 경우
 	<div class="pg-opt">
         <div class="row">
             <div class="col-md-6 pc">
