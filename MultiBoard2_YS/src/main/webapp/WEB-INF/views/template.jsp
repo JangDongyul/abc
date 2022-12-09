@@ -7,6 +7,7 @@
 <jsp:include page="/WEB-INF/views/include/staticFiles.jsp"/>
 <body>
 <jsp:include page="/WEB-INF/views/include/bodyHeader.jsp"/>
+<!--  template.jsp 주석 추가 -->
 <div class="container">
 	<div class="pg-opt">
         <div class="row">
