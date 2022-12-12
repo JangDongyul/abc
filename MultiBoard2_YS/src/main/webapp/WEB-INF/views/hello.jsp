@@ -7,7 +7,7 @@
 <jsp:include page="/WEB-INF/views/include/staticFiles.jsp"/>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script>
-//test
+//tests
 $(function() { // $() : jquery() 		$(function() { }) 페이지가 로드되면 실행
 	var btn = $("input[type=button]");	// $("CSS 선택자") 해당 DOM엘리먼트를 찾아 반환
 	var input = $("input[name=username]");
